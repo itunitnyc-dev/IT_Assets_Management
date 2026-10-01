@@ -15,7 +15,7 @@
                 <div class="brand-sections">
                     <div class="brand-content">
                         <div class="logo-box">
-                            <span class="logo-main"><span class="logo-sub"><b>WELCOME TO YOUTH CAMP</b></span></span>
+                            <span class="logo-main"><span class="logo-sub"><b>IT Assets Management System</b></span></span>
                           
                         </div>
                         <h1><b>2026</b></h1>
